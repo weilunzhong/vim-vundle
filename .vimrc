@@ -16,6 +16,8 @@ Plugin 'flazz/vim-colorschemes'
 
 Plugin 'ntpeters/vim-better-whitespace'
 
+Plugin 'derekwyatt/vim-scala'
+
 Plugin 'Raimondi/delimitMate'
 
 Plugin 'scrooloose/nerdtree'
