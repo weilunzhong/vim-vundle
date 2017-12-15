@@ -45,6 +45,7 @@ colorscheme Chasing_Logic
 let g:ycm_key_invoke_completion = '<C-Space>'
 let g:ycm_auto_trigger = 1
 let g:ycm_key_list_select_completion = ['<Tab>', '<Down>']
+let NERDTreeIgnore = ['\.pyc$']
 
 set nu
 set hls
